@@ -3,7 +3,7 @@ This code was developed for running model examples of RADMC3D from Python, in th
 At least for now, it works only on Linux. 
 
 #Dependencies
-Matplotlib --> version 3.7.2
-radmc3d --> version 2.0
-fargo3d --> version 2.0
-astropy --> version 5.3.4
+* Matplotlib --> version 3.7.2
+* radmc3d --> version 2.0
+* Fargo3d --> version 2.0
+* Astropy --> version 5.3.4
